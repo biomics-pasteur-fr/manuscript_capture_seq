@@ -1,1 +1,3 @@
-# manuscript_capture_seq
+# capture seq manuscript
+
+Materials and complementary information for manuscript
