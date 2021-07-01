@@ -20,8 +20,7 @@
 
 there were unmapped accession numbers. We had to add those seqid to taxon mapping in the seqid2tax file of the librarry before building it. 
 
-::
-
+```
    NC_027201 taxon:11587
    NC_027203 taxon:11587
    NC_028101 replaced by NC_012042 taxon is 573977
@@ -31,3 +30,4 @@ there were unmapped accession numbers. We had to add those seqid to taxon mappin
    NC_001347 taxon: 10359
    NC_002617 139270
    NC_004148 162145
+```
