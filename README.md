@@ -4,9 +4,6 @@ Materials and complementary information for manuscript
 
 
 
-Information about the Kraken databases
-
-
-[a relative link](kraken/README.md)
+Information about the [Kraken databases](kraken_dbs/README.md)
 
 
