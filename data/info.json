@@ -6,6 +6,7 @@
         "D": [4777, 4489, 4510, 4668],
         "E": [4544, 4798, 4797, 4656]
         },
+    
     "samples": {
         "4520": "A",
         "4885": "A",
@@ -30,5 +31,114 @@
         },
    
     
-
- }
+    "cts": {
+	"4885": 26.12,
+	"4716": 25.77,
+	"4660": 26.55,
+	"4520": 25.51,
+	"4707": 28.57,
+	"4697": 28.72,
+	"4676": 28.93,
+	"4653": 29.27,
+	"4861": 32.95,
+	"4787": 32.59,
+	"4688": 31.11,
+	"4673": 32.6,
+	"4777": 35.44,
+	"4668": 35.88,
+	"4510": 34.65,
+	"4489": 35.15,
+	"4798": 36.46,
+	"4797": 39.19,
+	"4656": 36.54,
+	"4544": 36.74
+    },
+    
+    "runs": {
+        "arbo_double_is":
+            {
+                "path": "2020/ISeq100/20200423_FS10001183_4_BPL20309-2627",
+                "description": "Arbor Sars-cov simple capture"
+            },
+        "arbo_double_ms":
+            {
+                "path": "2020/MiSeq/200427_M01626_0470_000000000-CVJBF",
+                "description": "Arbor Sars-cov double capture : Miseq"
+            },
+        "arbo_double_10plex_ms":
+            {
+                "path": "2020/MiSeq/200511_M05218_0203_000000000-J533H",
+                "description": "Arbor Double Capture Sars-cov 10plex"
+            },
+        "arbo_single_is":
+            {
+                "path": "2020/ISeq100/20200428_FS10001183_5_BPL20316-3113",
+                "description": "Arbor Sars-cov SIMPLE CAPTURE : Iseq100"
+            },
+       "arbo_single_ms":
+            {
+                "path": "2020/Miseq/200504_M05218_0201_000000000-J534C",
+                "description": "Arbor Sars-cov SIMPLE CAPTURE : Miseq"
+            },
+        "illumina_resv_is":
+            {
+                "path": "2020/Iseq100/20200421_FS10001183_3_BPL20309-1531",
+                "description": "Illumina capture ResV : ISeq100"
+            },
+        "illumina_resv_ms":
+            {
+                "path": "2020/Miseq/200504_M01626_0471_000000000-J4VCN",
+                "description": "Illumina capture ResV : Miseq"
+            },
+        "illumina_resv_ns":
+            {
+                "path": "2020/NextSeq/200504_NB501291_0237_AHM3NCBGXF",
+                "description": "Illumina capture ResV : Nextseq "
+            },
+        "meta_is":
+            {
+                "path": "2020/ISeq100/20200416_FS10001183_1_BPL20316-3215",
+                "description": "Pré-capture ( métagénomique shotgun) : Iseq100"
+            },
+        "meta_ns":
+            {
+                "path": "2020/NextSeq/200417_NS500199_0381_AH3YVWBGXB",
+                "description": "Pré-capture ( métagénomique shotgun) : NextSeq"
+            },
+        "twist_cov_is":
+            {
+                "path": "2020/ISeq100/20200420_FS10001183_2_BPA73110-1809",
+                "description": "Twist capture sras-cov2: ISeq100"
+            },
+        "twist_cov_ms":
+            {
+                "path": "2020/MiSeq/200427_M05218_0198_000000000-J39KG",
+                "description": "Twist capture sras-cov2: MiSeq"
+            },
+        "twist_cov_ns":
+            {
+                "path": "2020/NextSeq/200422_NS500199_0382_AHY3HGBGXC",
+                "description": "Twist capture sras-cov2: Nextseq"
+            },
+       "twist_panviral_is":
+            {
+                "path": "2020/ISeq100/20200420_FFSMP030_20_BPL20308-2821",
+                "description": "Twist capture pan viral: ISeq100"
+            },
+        "twist_panviral_ns":
+            {
+                "path": "2020/Nextseq/200428_NB501291_0235_AHCYFCBGXF",
+                "description": "Twist capture pan viral: Nextseq"
+            },
+        "twist_cov_10plex_ms":
+            {
+                "path": "2020/MiSeq/200506_M05218_0202_000000000-J57BC",
+                "description": "Twist Capture Sars-cov 10plex: MiSeq"
+            },
+        "twist_cov_LB_ms":
+            {
+                "path": "2020/MiSeq/200514_M05218_0205_000000000-J56F6",
+                "description": "TwistLB Capture Sars-cov: MiSeq"
+            }
+    }
+}
