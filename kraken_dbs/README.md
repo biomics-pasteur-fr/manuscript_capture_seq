@@ -1,6 +1,7 @@
-# Kraken databases used during the Captureseq project
+# Kraken databases used during the Capture-seq project
 
 
+## databases
 * covid2 only: custom database available in the covid2 directory
 * Twist panviral:  custom database available in the covid2 directory
 * Illumina panel viruses oonly: custom database available in the covid2 directory
@@ -11,6 +12,7 @@
 
 
 
+## Other files:
 
 * The file accession_panel_illumina.txt contains 83 viruses to be used in the Illumina panel v1. **This file excludes the human control**
 * In v2, human control were added. We have 94 genes. Gene names are stored in illumina_resp_human_control.txt**** 
