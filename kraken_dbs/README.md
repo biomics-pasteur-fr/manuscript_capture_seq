@@ -1,12 +1,13 @@
 # Kraken databases used during the Captureseq project
 
 
-* covid2 only:
-* Twist panviral:
-* Illumina panel:
-* Viruses:
-* bacteria:
-* human:
+* covid2 only: custom database available in the covid2 directory
+* Twist panviral:  custom database available in the covid2 directory
+* Illumina panel viruses oonly: custom database available in the covid2 directory
+* Illumina panel human control only:  custom database available in the covid2 directory
+* Viruses:  not provided here (too large), this is the standard viral database built with Kraken2
+* bacteria: not provided here (too large), this is the standard bacteria database built with Kraken2
+* human: not provided here (too large), this is the standard human database built with Kraken2
 
 
 
@@ -16,18 +17,4 @@
 * The file accession_panel_twist.txt contains 1160 viruses to be used in the twist panel.
 
 
-**kraken DB notes:**
-
-there were unmapped accession numbers. We had to add those seqid to taxon mapping in the seqid2tax file of the librarry before building it. 
-
-```
-   NC_027201 taxon:11587
-   NC_027203 taxon:11587
-   NC_028101 replaced by NC_012042 taxon is 573977
-   NC_006947 obsolete according to NCBI taxon is 64287
-   NC_027202 taxon: 11587
-   NC_004355 taxon: 172148
-   NC_001347 taxon: 10359
-   NC_002617 139270
-   NC_004148 162145
 ```
