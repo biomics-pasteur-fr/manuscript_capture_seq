@@ -2,9 +2,8 @@
 
 Materials and complementary information for the manuscript
 
-
-
 * Information about the [Kraken databases](kraken_dbs/README.md)
-* List of notebooks used to performed the various analysis: [notebooks entrypoint](notebooks/README.md)
-
-
+* Analysis notebooks:
+- [Sequence quality control](notebooks/1_qc.ipynb)
+- [Mapping](notebooks/2_mapping.ipynb)
+- [Statistics report](notebooks/3_report.ipynb)
