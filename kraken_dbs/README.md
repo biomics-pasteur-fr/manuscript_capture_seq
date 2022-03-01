@@ -5,9 +5,9 @@
 * [covid2](covid2): custom database with wuhan genome only
 * [Twist panviral](twist_panviral):  custom database with 1160 viruses from the Twist panviral panel
 * [Illumina panel viruses](twist_panviral) only: custom database with 83 viruses from the Illumina panel
-* [Illumina panel human control](illumina_human_control) only:  custom database wit only the human control
+* [Illumina panel human control](illumina_human_control) only:  custom database with the Illumina human control panel
 
-We also used viral, bacteria and human databases, not provided here, from the standard dabases built with kraken2 command line.
+We also used viral, bacterial and human databases built with the kraken2 command line.
 
 ## Other files:
 
