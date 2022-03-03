@@ -1,0 +1,31 @@
+{
+    "databases": [
+        "covid2",
+        "Ill_resv2_HC",
+        "Ill_resv2",
+        "human",
+        "bacteria",
+        "viruses"
+    ],
+    "covid2": {
+        "C": 16819271
+    },
+    "Ill_resv2_HC": {
+        "C": 1253692
+    },
+    "Ill_resv2": {
+        "C": 1527931
+    },
+    "human": {
+        "C": 5153735
+    },
+    "bacteria": {
+        "C": 1362175
+    },
+    "viruses": {
+        "C": 2247
+    },
+    "unclassified": 1322822,
+    "total": 27441873,
+    "classified": 26119051
+}

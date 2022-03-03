@@ -1,0 +1,27 @@
+{
+    "databases": [
+        "covid2",
+        "twist_panviral",
+        "human",
+        "bacteria",
+        "viruses"
+    ],
+    "covid2": {
+        "C": 0
+    },
+    "twist_panviral": {
+        "C": 14160
+    },
+    "human": {
+        "C": 1210080
+    },
+    "bacteria": {
+        "C": 658
+    },
+    "viruses": {
+        "C": 13
+    },
+    "unclassified": 50639,
+    "total": 1275550,
+    "classified": 1224911
+}

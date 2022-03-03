@@ -1,0 +1,23 @@
+{
+    "databases": [
+        "covid2",
+        "human",
+        "bacteria",
+        "viruses"
+    ],
+    "covid2": {
+        "C": 3351741
+    },
+    "human": {
+        "C": 470971
+    },
+    "bacteria": {
+        "C": 110
+    },
+    "viruses": {
+        "C": 7
+    },
+    "unclassified": 19928,
+    "total": 3842757,
+    "classified": 3822829
+}
