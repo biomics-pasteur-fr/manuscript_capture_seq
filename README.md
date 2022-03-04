@@ -7,5 +7,5 @@ Materials and complementary information for the manuscript **Capturing SARS-CoV-
   * [Sequence quality control](notebooks/1_qc.ipynb)
   * [Mapping](notebooks/2_mapping.ipynb)
   * [Statistics report](notebooks/3_report.ipynb)
-  * [Taxonomy eport](notebooks/4_taxonomy.ipynb)
+  * [Taxonomy report](notebooks/4_taxonomy.ipynb)
   * [correlation report](notebooks/5_correlation.ipynb)
