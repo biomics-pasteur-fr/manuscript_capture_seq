@@ -1,0 +1,45 @@
+taxon,count,percentage,kingdom,phylum,class,order,family,genus,species,name
+-1,127,43.49315068493151,Unclassified,Unclassified,Unclassified,Unclassified,Unclassified,Unclassified,Unclassified,Unclassified
+9606,88,30.136986301369863,Eukaryota,Chordata,Mammalia,Primates,Hominidae,Homo,Homo sapiens,Homo sapiens
+1747,13,4.4520547945205475,Bacteria,Actinobacteria,Actinobacteria,Propionibacteriales,Propionibacteriaceae,Cutibacterium,Cutibacterium acnes,Cutibacterium acnes
+190721,8,2.73972602739726,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Ralstonia,Ralstonia insidiosa,Ralstonia insidiosa
+286,5,1.7123287671232876,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas, ,Pseudomonas
+80864,4,1.36986301369863,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Comamonadaceae, , ,Comamonadaceae
+543,3,1.0273972602739725,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae, , ,Enterobacteriaceae
+106649,2,0.684931506849315,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Acinetobacter,Acinetobacter guillouiae,Acinetobacter guillouiae
+2,2,0.684931506849315,Bacteria, , , , , , ,Bacteria
+2622653,2,0.684931506849315,Bacteria,Proteobacteria,Alphaproteobacteria,Caulobacterales,Caulobacteraceae,Brevundimonas, ,unclassified Brevundimonas
+1282,2,0.684931506849315,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus epidermidis,Staphylococcus epidermidis
+1236,2,0.684931506849315,Bacteria,Proteobacteria,Gammaproteobacteria, , , , ,Gammaproteobacteria
+339,2,0.684931506849315,Bacteria,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,Xanthomonas,Xanthomonas campestris,Xanthomonas campestris
+48736,2,0.684931506849315,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Ralstonia, ,Ralstonia
+1185652,1,0.3424657534246575,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Sinorhizobium,Sinorhizobium fredii,Sinorhizobium fredii USDA 257
+1229787,1,0.3424657534246575,Viruses, , ,Caudovirales,Siphoviridae,Pahexavirus,Propionibacterium virus P104A,Propionibacterium phage P104A
+34072,1,0.3424657534246575,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Comamonadaceae,Variovorax, ,Variovorax
+40215,1,0.3424657534246575,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Acinetobacter,Acinetobacter junii,Acinetobacter junii
+41275,1,0.3424657534246575,Bacteria,Proteobacteria,Alphaproteobacteria,Caulobacterales,Caulobacteraceae,Brevundimonas, ,Brevundimonas
+119045,1,0.3424657534246575,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Methylobacteriaceae, , ,Methylobacteriaceae
+68895,1,0.3424657534246575,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Cupriavidus,Cupriavidus basilensis,Cupriavidus basilensis
+80840,1,0.3424657534246575,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales, , , ,Burkholderiales
+909768,1,0.3424657534246575,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Acinetobacter, ,Acinetobacter calcoaceticus/baumannii complex
+535289,1,0.3424657534246575,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Comamonadaceae,Acidovorax,Acidovorax ebreus,Acidovorax ebreus TPSY
+1546149,1,0.3424657534246575,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Comamonadaceae,Diaphorobacter,Diaphorobacter polyhydroxybutyrativorans,Diaphorobacter polyhydroxybutyrativorans
+145391,1,0.3424657534246575,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus hominis,Staphylococcus hominis subsp. hominis
+2684926,1,0.3424657534246575,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Comamonadaceae,Acidovorax, ,unclassified Acidovorax
+1760,1,0.3424657534246575,Bacteria,Actinobacteria,Actinobacteria, , , , ,Actinobacteria
+1274,1,0.3424657534246575,Bacteria,Actinobacteria,Actinobacteria,Micrococcales,Dermacoccaceae,Dermacoccus,Dermacoccus nishinomiyaensis,Dermacoccus nishinomiyaensis
+1716,1,0.3424657534246575,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Corynebacteriaceae,Corynebacterium, ,Corynebacterium
+1366,1,0.3424657534246575,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus,Lactococcus raffinolactis,Lactococcus raffinolactis
+1313,1,0.3424657534246575,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus pneumoniae,Streptococcus pneumoniae
+1292,1,0.3424657534246575,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus warneri,Staphylococcus warneri
+1882682,1,0.3424657534246575,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Methylobacteriaceae,Microvirga,Microvirga ossetica,Microvirga ossetica
+1224,1,0.3424657534246575,Bacteria,Proteobacteria, , , , , ,Proteobacteria
+2487072,1,0.3424657534246575,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Chryseobacterium,Chryseobacterium sp. H6466,Chryseobacterium sp. H6466
+2488819,1,0.3424657534246575,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Corynebacteriaceae,Corynebacterium,Corynebacterium endometrii,Corynebacterium endometrii
+329,1,0.3424657534246575,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Ralstonia,Ralstonia pickettii,Ralstonia pickettii
+287,1,0.3424657534246575,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas aeruginosa,Pseudomonas aeruginosa
+2497861,1,0.3424657534246575,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,Halomonadaceae,Halomonas,Halomonas sp. BC-M4-5,Halomonas sp. BC-M4-5
+246,1,0.3424657534246575,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Chryseobacterium,Chryseobacterium balustinum,Chryseobacterium balustinum
+354276,1,0.3424657534246575,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Enterobacter, ,Enterobacter cloacae complex
+232721,1,0.3424657534246575,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Comamonadaceae,Acidovorax,Acidovorax sp. JS42,Acidovorax sp. JS42
+1912216,1,0.3424657534246575,Bacteria,Actinobacteria,Actinobacteria,Propionibacteriales,Propionibacteriaceae,Cutibacterium, ,Cutibacterium
