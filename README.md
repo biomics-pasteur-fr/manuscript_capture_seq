@@ -9,3 +9,4 @@ Materials and complementary information for the manuscript **Capturing SARS-CoV-
   * [Statistics report](notebooks/3_report.ipynb)
   * [Taxonomy report](notebooks/4_taxonomy.ipynb)
   * [correlation report](notebooks/5_correlation.ipynb)
+  * [figures paper](notebooks/6_figpaper.ipynb)
